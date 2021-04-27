@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shendihu.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-27T04:49:55.219Z</updated>
+    <updated>2021-04-27T05:07:33.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shendihu.github.io"/>
     <link rel="self" href="https://shendihu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>这是Mr.Di的个人博客</subtitle>
     <logo>https://shendihu.github.io/images/avatar.png</logo>
     <icon>https://shendihu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[小迪的博客]]></title>
+        <id>https://shendihu.github.io/post/xiao-di-de-bo-ke/</id>
+        <link href="https://shendihu.github.io/post/xiao-di-de-bo-ke/">
+        </link>
+        <updated>2021-04-27T04:59:44.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shendihu.github.io/post/hello-gridea/</id>
